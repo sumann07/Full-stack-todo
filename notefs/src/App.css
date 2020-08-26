@@ -1,0 +1,35 @@
+
+
+ .App{
+     text-align:center;
+ }
+
+
+   
+   
+
+
+
+
+nav li {
+  
+    display: inline-block;
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 0px;;
+   
+  
+}
+
+
+.b{
+ background-color: #00334e;
+ height: 50px;
+ width:200px;
+ border-radius: 20px;
+ text-justify: auto;
+ color:#fff;
+ font-size:30px;
+ cursor:pointer;
+ outline: none;
+}

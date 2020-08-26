@@ -1,0 +1,21 @@
+.title-p{
+    font-size: 30px;
+    
+    font-weight: bolder;
+}
+.input{
+    height:40px;
+    margin-left:20px;
+}
+.b{
+    background-color: #00334e;
+    height: 50px;
+    width:200px;
+    border-radius: 20px;
+    text-justify: auto;
+    color:#fff;
+    font-size:30px;
+    cursor:pointer;
+    outline: none;
+    margin-top:30px;
+   }

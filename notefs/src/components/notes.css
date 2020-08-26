@@ -1,0 +1,36 @@
+.title{
+    font-size: 2em;
+    font-weight: bolder;
+    text-align: center;
+    background-color:#00334e;
+    color: #fff;
+    margin: 0 0;
+    
+}
+.description{
+    font-style: italic;
+    padding-bottom: .3em;
+    font-size: 1em;
+    padding-left: 3%;
+    background-color: #00334e;
+    line-height: 1.3em;
+    padding-top: 15px;
+    color:#ffff;
+
+}
+.list{
+    list-style-type: none;
+    border: 2px solid black;
+    margin-bottom: .6em;
+    margin-top: 40px;
+
+}
+.list img{
+    display:block;
+    float: right;
+    margin: 10px;
+}
+.list img:hover{
+    transform: scale(1.4);
+}
+
